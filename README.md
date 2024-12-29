@@ -1,2 +1,2 @@
 # Vault
-A Phone and Tablet experience in Web
+Phone and Tablet experience in Web
