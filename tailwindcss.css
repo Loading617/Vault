@@ -1,0 +1,4 @@
+<div className="flex flex-col md:flex-row">
+  <div className="w-full md:w-1/2">Phone or tablet content</div>
+  <div className="w-full md:w-1/2">Shared content</div>
+</div>
